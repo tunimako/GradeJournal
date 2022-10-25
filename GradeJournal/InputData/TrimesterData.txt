@@ -1,0 +1,11 @@
+﻿**LIST OF MODULES STUDIED AT DIFERENT TRIMESTER**
+
+Posible modules from different disciplines:
+- Humanities: History, Music, Arts, English, Theater;
+- Natural: Biology, Chemestry, Physics;
+- Formal: Mathematics, Computer Sience;
+
+--------(All information from this line will be used in the code)--------
+FirstTrimester: History, Chemestry, Computer Sience
+SecondTrimester: Mathematics, Biology, Physics
+ThirdTrimester: Music, English, Arts, Theater

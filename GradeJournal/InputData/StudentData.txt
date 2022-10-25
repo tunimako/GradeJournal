@@ -1,0 +1,15 @@
+﻿**STUDENT LIST WITH THEY DISCIPLINES**
+
+Data should added as in example below, without braces:
+(StudentFullName:Discipline)
+
+Possible disciplines to choose from: Genius (good at every discipline), Humanities, Natural, Formal;
+Empty discipline means random grade level for evey module;
+
+--------(All information from this line will be used in the code)--------
+Soren Frey:Genius
+London Hancock:Genius
+Paulina Harrell:Humanities
+Hanna Owen:Natural
+Turner Soto:Formal
+Hadassah Nelson:Natural
